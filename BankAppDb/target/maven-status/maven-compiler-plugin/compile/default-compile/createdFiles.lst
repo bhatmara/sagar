@@ -1,0 +1,5 @@
+com\mycompany\model\Accounts.class
+com\mycompany\model\User.class
+com\mycompany\controller\AccountController.class
+com\mycompany\controller\UserController.class
+com\mycompany\view\NewMainView.class
